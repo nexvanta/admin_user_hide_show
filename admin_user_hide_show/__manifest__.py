@@ -26,7 +26,6 @@
     'images': ['static/description/6.png'],
     'images': ['static/description/7.png'],
     'images': ['static/description/icon.png'],
-    'images': ['static/description/Email.png'],
      "documentation": ["static/description/index.html"],
     'license': 'OPL-1',
     "live_test_url": "",
